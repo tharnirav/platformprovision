@@ -9,7 +9,7 @@
   "needApproval": true,
   "projectName": "test-demo",
   "env": "dev",
-  "sealId": "seal1234"
+  "Id": "deal1234"
 }
 
 curl -X POST -H "Authorization: Bearer $(gcloud auth print-access-token)" \
